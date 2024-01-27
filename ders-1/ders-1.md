@@ -8,3 +8,4 @@ Ders 1: Termmux'un kurulumu ve kurulum sonrası yapılacaklar
 ---
 
 ## Bölüm 1: UNİX nedir, neden bilmemiz önemlidir?  
+UNİX, bir işletim sistemi ailesidir. UNİX'in temellerini bilmemiz önemlidir çünkü mobile cihazından tutun(Android,İOS) son kullanıcı bilgisayarına(Linux, Macos), sunucusudan tutun(Linux, BSD, Solaris) en basit akıllı cihazlara(Modemler, akıllı ev aletleri ve diğer IOT[Nesnelerin interneti] cihazları genellikle hafifletilmiş Linux dağıtımları kullanırlar.) kadar hayatımızın birçok yerinde bulunan bu nesneler UNİX tabanlı işletim sistemleri kullanırlar. Bu yüzden UNİX'in tanımak hem profesyonel hem de kişisel hayatınızda çok işinize yarıyacaktır.
