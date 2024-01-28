@@ -12,6 +12,7 @@ Ekran görüntülerinden de anlaşılacağı şekilde Play Store'daki Termux F-D
 Neden Termux'u Play Store'dan indirmememiz gerektiğini de anladığımıza göre kuruluma geçebiliriz. Termux'u kurabilmemiz için öncelikle [F-droid'i](https://f-droid.org) indirmeniz gerekiyor.  
 ![image](https://github.com/13egliB/termux-temel-egitim/blob/main/ders-2/fdroid-download.png "F-Droid'i indir")  
 F-Droid'i indirdikten sonra F-Droid'deki arama kısmına girip Termux diye aratmanız gerek.  
-![image](burayalinkkoy "Termux'u indir")
+![image](https://github.com/13egliB/termux-temel-egitim/blob/main/ders-2/termux-download.png "Termux'u indir")  
+Ekte işaretlediğim Termux'u indirdin.  
 
 ## Bölüm 3: Gelecek dersler için gereken paketleri indirme  
