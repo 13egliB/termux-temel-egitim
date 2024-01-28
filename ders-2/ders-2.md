@@ -9,6 +9,7 @@ Ders 2: Termux'u indirmek ve kurulum sonrası yapılacaklar.
 Ekran görüntülerinden de anlaşılacağı şekilde Play Store'daki Termux F-Droid'daki Termux'tan geri kalmıştır ve bunun sonucunda indireceğiniz çoğu paket bozuk çalışacaktır.  
 
 ## Bölüm 2: Termux'u kurma  
+Neden Termux'u Play Store'dan indirmememiz gerektiğini de anladığımıza göre kuruluma geçebiliriz. Termux'u kurabilmemiz için öncelikle [F-droid'i](https://f-droid.org) indirmeniz gerekiyor.  
 
 
 ## Bölüm 3: Gelecek dersler için gereken paketleri indirme  
