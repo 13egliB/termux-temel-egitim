@@ -16,3 +16,11 @@ F-Droid'i indirdikten sonra F-Droid'deki arama kısmına girip Termux diye aratm
 Ekte işaretlediğim Termux'u indirdin.  
 
 ## Bölüm 3: Gelecek dersler için gereken paketleri indirme  
+Termux'u indirdiğimize göre gelecek derslerimiz için gerekli olan paketleri indirelim. Herşeyden önce bu 3 komutu çalıştırmalıyız:  
+1. Komut: ```termux-setup-storage``` bu komut Termux'a dosya sistemimize erişim izni verecektir.  
+   
+2. Komut: ```termux-change-repo``` bu komut Termux paketlerini indireceğimiz sunuculara bağlanmamızı sağlayacaktır.  
+
+3. Komut: ```pkg update -y``` bu komut sunuculara bağlandıktan sonra tüm indirilebilir paketlerin listesini verecektir.  
+
+Bu 3 komutu çalıştırdıktan sonra ```pkg install -y micro python3 python2 python-pip openssh git toilet neofetch busybox dnsutils wget curl zip unzip man``` bu komutu kullanarak gelecek derslerde kullanacağımız paketleri yüklemiş oluruz.
