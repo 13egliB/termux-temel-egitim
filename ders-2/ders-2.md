@@ -18,9 +18,11 @@ Ekte işaretlediğim Termux'u indirdin.
 ## Bölüm 3: Gelecek dersler için gereken paketleri indirme  
 Termux'u indirdiğimize göre gelecek derslerimiz için gerekli olan paketleri indirelim. Herşeyden önce bu 3 komutu çalıştırmalıyız:  
 1. Komut: ```termux-setup-storage``` bu komut Termux'a dosya sistemimize erişim izni verecektir. Burada çıkan popup'ta izin veriyoruma tıklayın.  
-   
+![image](https://github.com/13egliB/termux-temel-egitim/blob/main/ders-2/storage-setup.jpg "y yazıp entera basın")   
 2. Komut: ```termux-change-repo``` bu komut Termux paketlerini indireceğimiz sunuculara bağlanmamızı sağlayacaktır.  
+![image](https://github.com/13egliB/termux-temel-egitim/blob/main/ders-2/change-repo1.jpg "Sadece entera basın")  
+![image](https://github.com/13egliB/termux-temel-egitim/blob/main/ders-2/change-repo2.jpg "Avrupa sunucusunu seçin ve entera basın")  
+4. Komut: ```pkg update -y``` bu komut sunuculara bağlandıktan sonra tüm indirilebilir paketlerin listesini verecektir.  
 
-3. Komut: ```pkg update -y``` bu komut sunuculara bağlandıktan sonra tüm indirilebilir paketlerin listesini verecektir.  
 
 Bu 3 komutu çalıştırdıktan sonra ```pkg install -y micro python3 python2 python-pip openssh git toilet neofetch busybox dnsutils wget curl zip unzip man``` bu komutu kullanarak gelecek derslerde kullanacağımız paketleri yüklemiş oluruz.  
